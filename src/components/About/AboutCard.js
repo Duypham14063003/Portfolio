@@ -9,7 +9,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Phạm Ngọc Duy </span>
-            from <span className="purple"> Tan Phu District, HCM CITY.</span>
+            from <span className="purple"> Tan Phu District, HCMC.</span>
             <br />
             I am currently a third-year student majoring in Information
             Technology at the University of Foreign Languages and Information
